@@ -3,7 +3,7 @@
  * Plugin Name: Certificate Generator
  * Plugin URI:  https://www.github.com/srisubaramb/certificate-generator-plugin
  * Description: Generates image certificates via a form, stores them in a CPT, provides validation URLs, overlays QR code, lists certificates in admin (with Delete + Donate), and maps text to your template coordinates.
- * Version:     1.2
+ * Version:     1.0
  * Author:      srisubaram
  * Author URI:  srisubaramb.github.io
  */
